@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Fishmaster AI</title>
+    <link href="https://fmai-3adbe.web.app/feed.xml" rel="self" />
+    <link href="https://fmai-3adbe.web.app" />
+    <updated>2020-11-03T14:15:58-08:00</updated>
+    <author>
+        <name>Kevin Brooks</name>
+    </author>
+    <id>https://fmai-3adbe.web.app</id>
+
+    <entry>
+        <title>Google Coral Eval</title>
+        <author>
+            <name>Kevin Brooks</name>
+        </author>
+        <link href="https://fmai-3adbe.web.app/google-coral-eval.html"/>
+        <id>https://fmai-3adbe.web.app/google-coral-eval.html</id>
+
+        <updated>2020-11-03T14:15:58-08:00</updated>
+            <summary>
+                <![CDATA[
+                     Getting Setup You need a Linux system to get the thing flashed. It's a complicated procedure that requires 2 different USB cables&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="getting-setup">
+      Getting Setup
+    </h2>
+
+  <ul>
+    <li>You need a Linux system to get the thing flashed. It's a complicated procedure that requires 2 different USB cables and some old school serial console and data xfer to get things going. Not sure why you can't flash an SD card and copy that image to eMMC for faster boot.</li><li>Although not a Jetson Nano NX this is a nice little computer with a TPU that should make things run quickly. I'm interested in both how quickly it reacts and how many models I can run in parallel.</li>
+  </ul>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

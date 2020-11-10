@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fishmaster AI",
+    "description": "",
+    "home_page_url": "https://fmai-3adbe.web.app",
+    "feed_url": "https://fmai-3adbe.web.app/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kevin Brooks"
+    },
+    "items": [
+        {
+            "id": "https://fmai-3adbe.web.app/google-coral-eval.html",
+            "url": "https://fmai-3adbe.web.app/google-coral-eval.html",
+            "title": "Google Coral Eval",
+            "summary": " Getting Setup You need a Linux system to get the thing flashed. It's a complicated procedure that requires 2 different USB cables&hellip;",
+            "content_html": "\n    <h2 id=\"getting-setup\">\n      Getting Setup\n    </h2>\n\n  <ul>\n    <li>You need a Linux system to get the thing flashed. It's a complicated procedure that requires 2 different USB cables and some old school serial console and data xfer to get things going. Not sure why you can't flash an SD card and copy that image to eMMC for faster boot.</li><li>Although not a Jetson Nano NX this is a nice little computer with a TPU that should make things run quickly. I'm interested in both how quickly it reacts and how many models I can run in parallel.</li>\n  </ul>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Kevin Brooks"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-01T16:11:30-08:00",
+            "date_modified": "2020-11-03T14:15:58-08:00"
+        }
+    ]
+}
